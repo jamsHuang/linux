@@ -76,5 +76,27 @@ it will open id_rsa.pub with gedit, plz copy all the text in the id_rsa.pub and 
 
 	account > setting > SSH and GPG keys > New SSH Key
 
-give a name and paste what you copied from id_rsa.pub
+> give a name and paste what you copied from id_rsa.pub
+> now you can push without keyin ur password
+
+
+### 1-4 Git a project
+##### 1-4-1 git add .
+create something in localhost
+
+	$ mkdir images
+	$ cd images 
+	$ touch xxx.md
+	$ git add .
+	$ git commit
+
+ctrl+x after keyin what you hv done
+y yes to confirm
+
+	$ git push
+
+to update what you hv done on localhost
+
+
+
  
