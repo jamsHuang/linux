@@ -13,5 +13,4 @@
 ### 1-1:install git on ubuntu
 type in terminal: "sudo apt-get install git"
 ### 1-2:get github account 
-type in terminal: "sudo apt-get install git"
-
+sign up in github 
