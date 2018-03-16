@@ -26,6 +26,7 @@ type in terminal: "sudo apt-get install git"
 to skip enter userName and pw while "git push" 
 #### 1-3-1 check ssh key
 open terminal and type
+
 	cd ~/.ssh
 	# Check if there's a directory named ".ssh" in user directory
 
